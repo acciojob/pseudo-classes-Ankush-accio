@@ -1,1 +1,51 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:rgb(135, 206, 235);
+}
+div.bo :first-child{
+	background-color:black;
+	color:white;
+}
+div.bo :nth-child(2){
+	 color:black;
+}
+div.bo :last-child{
+	color:red;
+}
+li{
+	background-color:grey;
+	width:50%;
+	padding:10px;
+}
+li:first-child{
+	background-color:white;
+	font-size:22px;
+}
+li:last-child{
+	background-color:white;
+	font-size:22px;
+}
+li:nth-child(3){
+	background-color:pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+}
